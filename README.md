@@ -9,17 +9,17 @@
 - ⚡ Fun fact: I met Beyonce and Dolly Parton on the same day. 
 
 
-🛠️ **Skills**
-hr
-Technical Writing
-System Administration
-Software Development
-Research & Editing
-Proofreading
-Adobe Creative Cloud
-Microsoft Office Tools
-HTML & CSS
-Markdown
+🛠️ **Skills**  
+
+- Technical Writing
+- System Administration
+- Software Development
+- Research & Editing
+- Proofreading
+- Adobe Creative Cloud
+- Microsoft Office Tools
+- HTML & CSS
+- Markdown
 
 
 
